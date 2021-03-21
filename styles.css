@@ -1,0 +1,22 @@
+html {
+    background: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 3rem;
+    
+    
+}
+
+.heading {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 40px;
+    text-shadow: 10px 10px 4px rgba(0,0,0,0.1);
+    
+}
